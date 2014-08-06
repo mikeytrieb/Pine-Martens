@@ -14,7 +14,7 @@
 	<!--HEADER-->
 	<?php include 'header.php';?>
 
-	<h1 style="margin-top: 50px;">UNDER CONSTRUCTION :')</h1>
+	<h1 style="margin-top: 50px;">UNDER CONSTRUCTION</h1>
 
 	<!--FOOTER-->
 	<?php include 'footer.php';?>
