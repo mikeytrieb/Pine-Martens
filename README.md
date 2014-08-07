@@ -1,8 +1,4 @@
-Pine-Martens
-============
+pinemartens
+===========
 
-Rock n Roll group from Greenville, IL
-
-Kiah Kelsen - vocals
-
-Mikey Trieb - vocals, guitar
+Pine Martens yes
